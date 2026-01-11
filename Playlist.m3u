@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 group-title="🎬 Фильмы",Последний ронин
-http://127.0.0.1:6878/ace/getstream?id=D72930431D5A81B95962BD68D7CDF0E66C356385
+http://127.0.0.1:6878/ace/getstream?id=D72930431D5A81B95962BD68D7CDF0E66C356385&format=ts
+#EXTINF:-1 group-title="🎬 Фильмы",Последний ронин
+http://127.0.0.1:6878/ace/getstream?id=D72930431D5A81B95962BD68D7CDF0E66C356385&format=ts&playback=vod
